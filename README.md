@@ -14,4 +14,4 @@ Esercizi Grafica in Movimento (2023)
 ## Esercizio 1B  
 [dittico](Esercizio_1B/indexA.html)  
 
-GG ce l'ho fatta
+GG ce l'ho fatta veramente
