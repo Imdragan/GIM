@@ -14,4 +14,10 @@ Esercizi Grafica in Movimento (2023)
 ## Esercizio 1B  
 [dittico](Esercizio_1B/indexA.html)  
 
+## Esercizio 2A  
+[forma e senso](Esercizio_2A/forma_senso.html)  
+
+## Esercizio 2B  
+[animazione](Esercizio_2B/Economia.mp4)
+
 GG ce l'ho fatta veramente
