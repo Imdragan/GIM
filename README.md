@@ -28,5 +28,5 @@ Esercizi Grafica in Movimento (2023)
 ## Esercizio 4
 [orologio](Esercizio_4/Orologio.html)
 
-Questo simpatico orologio è formato da 3 linee che rappresentano rispettivamente secondi, minuti e ore. Inoltre l'orologio può essere mosso con le freccette. 
+Questo simpatico orologio è formato da 3 linee che rappresentano rispettivamente secondi, minuti e ore. Inoltre l'orologio può essere mosso con le freccette.
 
