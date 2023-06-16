@@ -18,6 +18,15 @@ Esercizi Grafica in Movimento (2023)
 [forma e senso](Esercizio_2A/forma_senso.html)  
 
 ## Esercizio 2B  
-[animazione](Esercizio_2B/Economia.mp4)
+[forma e senso interattivo](Esercizio_2B/indexC.html)
 
-GG ce l'ho fatta veramente
+## Esercizio 3
+[pong](Esercizio_3/1_pong/pong.html)
+[neve](Esercizio_3/2_neve/neve.html)
+[pioggia](Esercizio_3/3_pioggia/pioggia.html)
+
+## Esercizio 4
+[orologio](Esercizio_4/Orologio.html)
+
+Questo simpatico orologio è formato da 3 linee che rappresentano rispettivamente secondi, minuti e ore. Inoltre l'orologio può essere mosso con le freccette. 
+
