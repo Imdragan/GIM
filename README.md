@@ -21,9 +21,9 @@ Esercizi Grafica in Movimento (2023)
 [forma e senso interattivo](Esercizio_2B/indexC.html)
 
 ## Esercizio 3
-[pong](Esercizio_3/1_pong/pong.html)
-[neve](Esercizio_3/2_neve/neve.html)
-[pioggia](Esercizio_3/3_pioggia/pioggia.html)
+[pong](Esercizio_3/1_pong/pong.html)  
+[neve](Esercizio_3/2_neve/neve.html)  
+[pioggia](Esercizio_3/3_pioggia/pioggia.html)  
 
 ## Esercizio 4
 [orologio](Esercizio_4/Orologio.html)
